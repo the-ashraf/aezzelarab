@@ -101,15 +101,15 @@
 					<div class="w-1/2 flex items-center justify-center">
 						<form name="contact" method="POST" data-netlify="true">
 							<div class="mb-4 relative">
-								<input class="input border border-gray-400 appearance-none rounded w-full px-3 py-3 pt-5 pb-2 focus focus:border-indigo-600 focus:outline-none active:outline-none active:border-indigo-600" id="name" type="text" required>
+								<input class="input border border-gray-400 appearance-none rounded w-full px-3 py-3 pt-5 pb-2 focus focus:border-indigo-600 focus:outline-none active:outline-none active:border-indigo-600" id="name" name="name" type="text" required>
 								<label for="name" class="label absolute right-0 mb-0 -mt-2 pt-4 pr-3 leading-tighter text-gray-400 text-base mt-2 cursor-text">الاسم</label>
 							</div>
 							<div class="mb-4 relative">
-								<input class="input border border-gray-400 appearance-none rounded w-full px-3 py-3 pt-5 pb-2 focus focus:border-indigo-600 focus:outline-none active:outline-none active:border-indigo-600" id="phone" type="text" required>
+								<input class="input border border-gray-400 appearance-none rounded w-full px-3 py-3 pt-5 pb-2 focus focus:border-indigo-600 focus:outline-none active:outline-none active:border-indigo-600" id="phone" name="phone" type="number" required>
 								<label for="phone" class="label absolute right-0 mb-0 -mt-2 pt-4 pr-3 leading-tighter text-gray-400 text-base mt-2 cursor-text">رقم التليفون</label>
 							</div>
 							<div class="mb-4 relative">
-							<textarea class="input border border-gray-400 appearance-none rounded w-full px-3 py-3 pt-5 pb-2 focus focus:border-indigo-600 focus:outline-none active:outline-none active:border-indigo-600" id="message" type="text" required>
+							<textarea class="input border border-gray-400 appearance-none rounded w-full px-3 py-3 pt-5 pb-2 focus focus:border-indigo-600 focus:outline-none active:outline-none active:border-indigo-600" id="message" name="message" required>
 
 							</textarea>
 								<label for="message" class="label absolute right-0 mb-0 -mt-2 pt-4 pr-3 leading-tighter text-gray-400 text-base mt-2 cursor-text">الرساله</label>
