@@ -89,29 +89,11 @@
 		<div class="hero-alt">
 			<div class="container mx-auto py-16">
 				<h2 id="contact-us" class="text-3xl text-purple mb-2">إتصل بنا</h2>
-				<div class="flex items-center">
-					<div class="w-1/2 text-xl tracking-wide leading-7">
-						<ul class="list-none">
-							<li>4 عمارات اول مايو - طريق النصر, القاهره.</li>
-							<li>02-26721666</li>
-							<li>hesham@aezzelarab.com</li>
-						</ul>
-
-					</div>
-					<div class="w-1/2 flex items-center justify-center">
-						<form name="contact" netlify>
-							<p>
-								<label>Name <input type="text" name="name" /></label>
-							</p>
-							<p>
-								<label>Email <input type="email" name="email" /></label>
-							</p>
-							<p>
-								<button type="submit">Send</button>
-							</p>
-						</form>
-					</div>
-				</div>
+				<ul class="list-none text-xl tracking-wide leading-7">
+					<li>4 عمارات اول مايو - طريق النصر, القاهره.</li>
+					<li>02-26721666</li>
+					<li>hesham@aezzelarab.com</li>
+				</ul>
 			</div>
 		</div>
 	</div>
