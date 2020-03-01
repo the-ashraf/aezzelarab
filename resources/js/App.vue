@@ -99,7 +99,7 @@
 
 					</div>
 					<div class="w-1/2 flex items-center justify-center">
-						<form name="contact-ezz" method="POST" data-netlify="true">
+						<form name="contact" method="POST" data-netlify="true">
 							<div class="mb-4 relative">
 								<input class="input border border-gray-400 appearance-none rounded w-full px-3 py-3 pt-5 pb-2 focus focus:border-indigo-600 focus:outline-none active:outline-none active:border-indigo-600" id="name" type="text" required>
 								<label for="name" class="label absolute right-0 mb-0 -mt-2 pt-4 pr-3 leading-tighter text-gray-400 text-base mt-2 cursor-text">الاسم</label>
