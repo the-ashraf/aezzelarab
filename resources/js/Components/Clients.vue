@@ -17,6 +17,7 @@
 		data() {
 			return {
 				clients: [
+					{name: 'Tomorrow للطاقة الشمسية', url: '../images/tomorrowsolar.png'},
 					{name: 'باك تو ناتشر', url: '../images/backtonature.png'},
 					{name: 'صندوق العاملين بمجموعة شركات القاهره للدواجن', url: '../images/cairopoultry.png'},
 					{name: 'فرقة كود مصر الموسيقيه', url: '../images/codemasr.png'},

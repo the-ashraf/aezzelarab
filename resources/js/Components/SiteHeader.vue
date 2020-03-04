@@ -1,7 +1,8 @@
 <template>
 	<div class="container mx-auto px-4 flex justify-center sm:justify-between items-center py-4" dir="ltr">
 		<ul class="hidden sm:block list-none text-sm" dir="rtl">
-			<li>02-26721666</li>
+			<li>02-2672-1666</li>
+			<li>01000-227-073</li>
 			<li>hesham@aezzelarab.com</li>
 			<li>4 عمارات اول مايو - طريق النصر, القاهره.</li>
 		</ul>
